@@ -1,0 +1,4 @@
+Loading /tmp/tmphrmooign/output_1550000/transactions/start_block=01550000/end_block=01599999/transactions_01550000_01599999.csv
+Processing 387870 blocks
+Finished processing 9 days worth of records
+Saving to /outputs/transactions_01550000_01599999.csv

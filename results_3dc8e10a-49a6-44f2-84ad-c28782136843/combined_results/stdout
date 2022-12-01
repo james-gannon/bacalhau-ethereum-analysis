@@ -1,0 +1,4 @@
+Loading /tmp/tmp2y4_docl/output_1800000/transactions/start_block=01800000/end_block=01849999/transactions_01800000_01849999.csv
+Processing 329365 blocks
+Finished processing 9 days worth of records
+Saving to /outputs/transactions_01800000_01849999.csv

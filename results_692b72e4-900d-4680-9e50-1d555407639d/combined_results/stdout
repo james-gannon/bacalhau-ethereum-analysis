@@ -1,0 +1,4 @@
+Loading /tmp/tmp36ritbiy/output_100000/transactions/start_block=00100000/end_block=00149999/transactions_00100000_00149999.csv
+Processing 36365 blocks
+Finished processing 11 days worth of records
+Saving to /outputs/transactions_00100000_00149999.csv
